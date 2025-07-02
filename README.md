@@ -2,6 +2,12 @@
 
 Un sistema completo para gestionar ofertas de empleo con funcionalidades para administradores y usuarios regulares.
 
+## 🎥 Demo del Sistema
+
+[![Demo del Sistema](https://img.youtube.com/vi/JC_BZRq7N7k/0.jpg)](https://youtu.be/JC_BZRq7N7k)
+
+📹 **[Ver Demo Completo en YouTube](https://youtu.be/JC_BZRq7N7k)**
+
 ## Características
 
 ### Para Administradores:
